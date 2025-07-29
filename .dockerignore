@@ -1,0 +1,17 @@
+# Ignore OS files
+.DS_Store
+
+# Ignore version control
+.git
+.gitignore
+
+# Node, Python, or build tools (optional if not used)
+node_modules
+__pycache__/
+*.pyc
+.env
+
+# Ignore README and any temp files
+README.md
+*.log
+*.zip
